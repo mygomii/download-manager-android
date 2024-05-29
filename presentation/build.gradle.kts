@@ -78,4 +78,8 @@ dependencies {
 
     implementation(Dependencies.Hilt.ANDROID)
     kapt(Dependencies.Hilt.ANDROID_COMPILER)
+
+    implementation(Dependencies.LOGGER)
+
+    implementation(Dependencies.COIL)
 }

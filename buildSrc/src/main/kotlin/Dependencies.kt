@@ -58,4 +58,6 @@ object Dependencies {
     const val LOGGER = "com.orhanobut:logger:${Versions.LOGGER_VERSION}"
 
     const val TED = "io.github.ParkSangGwon:tedpermission-normal:3.3.0"
+
+    const val COIL = "io.coil-kt:coil-compose:2.6.0"
 }
